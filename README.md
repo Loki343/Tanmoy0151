@@ -1,4 +1,6 @@
-[![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)]()
+<!-- [![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)]() -->
+
+<img width="100%" align-item='cenetr' src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" alt="master banner" />
 
 <h1 align="center">Hi 👋, I'm Tanmoy Roy</h1>
 <h3 align="center">An aspiring MERN Stack Developer and I love to keep myself updated with the latest technologies</h3>
