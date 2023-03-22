@@ -92,8 +92,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy0151&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+# Github activity graph
 
+[![Tanmoy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tanmoy0151_color=f6eff2&color=534652&line=f990f2&point=574c4c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
 <h1>Top Repositories</h1>
 
@@ -106,7 +109,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
     <a href="https://github.com/m-sehrawat/Weather-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="Tanmoy0151" />
     </a>
     <a href="https://github.com/m-sehrawat/Translation-App">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Translation-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
@@ -125,6 +128,7 @@
     </a> -->
     
 </p>
+---
 
 
 ---
