@@ -94,7 +94,7 @@
 ---
 # Github activity graph
 
-[![Tanmoy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tanmoy0151_color=f6eff2&color=534652&line=f990f2&point=574c4c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tanmoy0151&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
