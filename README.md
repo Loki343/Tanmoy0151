@@ -5,6 +5,7 @@
 
 ---
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tanmoy0151&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoy0151" /> </p>
 
 - 🌱 I’m currently learning **React.js Redux and chakra-UI framework**
 
@@ -82,7 +83,6 @@
 
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tanmoy0151&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoy0151" /> </p>
 
 # 📊 GitHub Stats:
 <p align-item="center"><img src="https://github-stats-alpha.vercel.app/api?username=Tanmoy0151" alt="tanmoy0151" /></p>
