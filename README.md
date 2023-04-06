@@ -109,7 +109,7 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
   
 <div align="center">
-<p> <a href="https://github.com/Tanmoy0151/Tanmoy0151/blob/output/github-contribution-grid-snake.svg /> </p> 
+<p> <img src="https://github.com/Tanmoy0151/Tanmoy0151/blob/output/github-contribution-grid-snake.svg" alt="tanmoy0151" /> </p> 
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tanmoy0151&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
