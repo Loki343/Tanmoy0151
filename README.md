@@ -109,11 +109,11 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
   
 <div align="center">
-  <!-- <a href="https://tanmoy0151.github.io/tanmoy0151/">
-  <img  src="https://github.com/tanmoy0151/tanmoy0151/blob/main/resources/img/grid-snake.svg" alt="snake" /></a> -->
+<p> <a href="https://github.com/Tanmoy0151/Tanmoy0151/blob/output/github-contribution-grid-snake.svg /> </p> 
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tanmoy0151&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
+
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  <h2> ✍️ Random Dev Quote </h2>
  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/> 
